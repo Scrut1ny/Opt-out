@@ -2,7 +2,7 @@
 <details>
 <summary>Expand...</summary>
 
-- [National Do Not Call Registry](https://www.donotcall.gov/)
+- [National Do Not Call Registry](https://www.donotcall.gov/register.html)
 
 </details>
 
