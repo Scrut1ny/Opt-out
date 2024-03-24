@@ -26,7 +26,7 @@
 <details>
 <summary>Expand...</summary>
 
-- [Vehicle Privacy Report](https://vehicleprivacyreport.com/)
+- [Vehicle Privacy Report](https://vehicleprivacyreport.com/report/?vin={INSERT-VIN}#)
 
 </details>
 
